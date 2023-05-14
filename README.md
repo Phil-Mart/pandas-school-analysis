@@ -1,6 +1,6 @@
 # Pandas: School Data Analysis 
 
-This notebook analyzes school data to determine the efficacy of private vs. public school in a comprised district. The Jupyter Notebook uses Pandas to filter, group, and sort the data in various ways, including: 
+This notebook analyzes school data to determine the efficacy of private vs. public school in a comprised district. The Jupyter Notebook uses Pandas to filter, group, and calculate the data in various ways, including: 
 
 * % overall passing (the percentage of students who passed math AND reading)
 * % passing reading (the percentage of students who passed reading)

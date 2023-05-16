@@ -20,3 +20,7 @@ These analyses were conducted across:
 From these analyses this notebook ultimately determines:
 * Highest & lowest performing schools
 * Implications drawn by scores compared to their school budgets
+
+#Contact 
+email: PhillipMartinez@my.unt.edu
+LinkedIn: https://www.linkedin.com/in/phil-mart/
